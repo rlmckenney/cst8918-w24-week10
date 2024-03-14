@@ -1,0 +1,56 @@
+{
+  "result": [
+    {
+      "scriptId": "324",
+      "url": "file:///Users/rlm/Code/algonquin/cst8918/teacher/week10/cst8918-w24-a10-ansible-etl/src/app.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 383,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "build",
+          "ranges": [
+            {
+              "startOffset": 99,
+              "endOffset": 382,
+              "count": 2
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 207,
+              "endOffset": 274,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 305,
+              "endOffset": 363,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    }
+  ],
+  "timestamp": 14960.350917,
+  "source-map-cache": {}
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "score": 85
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "janesmith@example.com",
+    "score": 90
+  },
+  {
+    "id": 3,
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bobjohnson@example.com",
+    "score": 75
+  },
+  {
+    "id": 4,
+    "firstName": "Alice",
+    "lastName": "Williams",
+    "email": "alicewilliams@example.com",
+    "score": 80
+  },
+  {
+    "id": 5,
+    "firstName": "Charlie",
+    "lastName": "Brown",
+    "email": "charliebrown@example.com",
+    "score": 95
+  },
+  {
+    "id": 6,
+    "firstName": "David",
+    "lastName": "Miller",
+    "email": "davidmiller@example.com",
+    "score": 70
+  },
+  {
+    "id": 7,
+    "firstName": "Emily",
+    "lastName": "Davis",
+    "email": "emilydavis@example.com",
+    "score": 85
+  },
+  {
+    "id": 8,
+    "firstName": "Frank",
+    "lastName": "Wilson",
+    "email": "frankwilson@example.com",
+    "score": 90
+  },
+  {
+    "id": 9,
+    "firstName": "Grace",
+    "lastName": "Anderson",
+    "email": "graceanderson@example.com",
+    "score": 75
+  },
+  {
+    "id": 10,
+    "firstName": "Henry",
+    "lastName": "Jackson",
+    "email": "henryjackson@example.com",
+    "score": 80
+  },
+  {
+    "id": 11,
+    "firstName": "Isabella",
+    "lastName": "Garcia",
+    "email": "isabellagarcia@example.com",
+    "score": 95
+  },
+  {
+    "id": 12,
+    "firstName": "Jack",
+    "lastName": "Taylor",
+    "email": "jacktaylor@example.com",
+    "score": 70
+  },
+  {
+    "id": 13,
+    "firstName": "Karen",
+    "lastName": "Lee",
+    "email": "karenlee@example.com",
+    "score": 85
+  },
+  {
+    "id": 14,
+    "firstName": "Liam",
+    "lastName": "Thomas",
+    "email": "liamthomas@example.com",
+    "score": 90
+  },
+  {
+    "id": 15,
+    "firstName": "Mia",
+    "lastName": "Watson",
+    "email": "miawatson@example.com",
+    "score": 75
+  },
+  {
+    "id": 16,
+    "firstName": "Noah",
+    "lastName": "Harris",
+    "email": "noahharris@example.com",
+    "score": 80
+  },
+  {
+    "id": 17,
+    "firstName": "Olivia",
+    "lastName": "Martin",
+    "email": "oliviamartin@example.com",
+    "score": 95
+  },
+  {
+    "id": 18,
+    "firstName": "Peter",
+    "lastName": "Anderson",
+    "email": "peteranderson@example.com",
+    "score": 70
+  },
+  {
+    "id": 19,
+    "firstName": "Quinn",
+    "lastName": "Wilson",
+    "email": "quinnwilson@example.com",
+    "score": 85
+  },
+  {
+    "id": 20,
+    "firstName": "Riley",
+    "lastName": "Johnson",
+    "email": "rileyjohnson@example.com",
+    "score": 90
+  },
+  {
+    "id": 21,
+    "firstName": "Sophia",
+    "lastName": "Lee",
+    "email": "sophialee@example.com",
+    "score": 75
+  },
+  {
+    "id": 22,
+    "firstName": "Thomas",
+    "lastName": "Garcia",
+    "email": "thomasgarcia@example.com",
+    "score": 80
+  },
+  {
+    "id": 23,
+    "firstName": "Uma",
+    "lastName": "Miller",
+    "email": "umamiller@example.com",
+    "score": 95
+  },
+  {
+    "id": 24,
+    "firstName": "Victoria",
+    "lastName": "Jackson",
+    "email": "victoriajackson@example.com",
+    "score": 70
+  },
+  {
+    "id": 25,
+    "firstName": "William",
+    "lastName": "Davis",
+    "email": "williamdavis@example.com",
+    "score": 85
+  }
+]
